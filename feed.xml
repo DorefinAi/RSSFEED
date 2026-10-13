@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Vartmaan AI News Wire</title>
+    <link>https://dorefinai.com</link>
+    <description>Vartmaan AI Automated Newsroom Ingestion Feed</description>
+    <language>hi</language>
+    <lastBuildDate>Tue, 13 Oct 2026 18:00:00 +0530</lastBuildDate>
+
+    <!-- STORY 1 -->
+    <item>
+      <!-- Title format with Slug in brackets so editors see it immediately -->
+      <title><![CDATA[[RAJ-JAIPUR-RAIN] जयपुर में भारी बारिश से जनजीवन प्रभावित, कई इलाकों में भरा पानी]]></title>
+
+      <!-- Story Body in Hindi UTF-8 -->
+      <description><![CDATA[
+जयपुर:
+राजधानी जयपुर में आज दोपहर बाद से मूसलाधार बारिश का दौर जारी है। बारिश के कारण शहर के निचले इलाकों और परकोटे में जलभराव की स्थिति पैदा हो गई है। मौसम विभाग ने आगामी 24 घंटों के लिए भारी बारिश का येलो अलर्ट जारी किया है।
+
+--
+संवाददाता: रमेश शर्मा (जयपुर ब्यूरो)
+प्राथमिकता: आवश्यक (URGENT)
+स्रोत: वर्तमान एआई
+      ]]></description>
+
+      <!-- Unique URL and GUID (Critical: Change the GUID for every new story so Octopus knows it's new) -->
+      <link>https://dorefinai.com/wire/20261013-001</link>
+      <guid isPermaLink="false">vartmaan-wire-20261013-001</guid>
+
+      <category><![CDATA[Rajasthan]]></category>
+      <dc:creator><![CDATA[Vartmaan AI]]></dc:creator>
+      <pubDate>Tue, 13 Oct 2026 17:55:00 +0530</pubDate>
+    </item>
+
+    <!-- STORY 2 -->
+    <item>
+      <title><![CDATA[[RAJ-POLITICS-CABINET] राजस्थान कैबिनेट की महत्वपूर्ण बैठक कल, बड़े नीतिगत फैसलों पर लगेगी मुहर]]></title>
+
+      <description><![CDATA[
+जयपुर:
+मुख्यमंत्री की अध्यक्षता में कल सचिवालय में राज्य मंत्रिमंडल की अहम बैठक बुलाई गई है। इस बैठक में प्रदेश के विकास कार्यों, नई भर्ती योजनाओं और प्रशासनिक सुधारों को लेकर बड़े फैसले लिए जाने की संभावना है।
+
+--
+संवाददाता: विकास कुमार (सचिवालय संवाददाता)
+प्राथमिकता: सामान्य (NORMAL)
+स्रोत: वर्तमान एआई
+      ]]></description>
+
+      <link>https://dorefinai.com/wire/20261013-002</link>
+      <guid isPermaLink="false">vartmaan-wire-20261013-002</guid>
+
+      <category><![CDATA[Politics]]></category>
+      <dc:creator><![CDATA[Vartmaan AI]]></dc:creator>
+      <pubDate>Tue, 13 Oct 2026 17:45:00 +0530</pubDate>
+    </item>
+
+  </channel>
+</rss>
