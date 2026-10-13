@@ -4,7 +4,7 @@ Feed URL after deploy: https://wire.dorefinai.com/feed.xml  (replace with your s
 
 ## Files
 - feed.xml     the RSS feed (UTF-8, no BOM, <?xml first line)
-- vercel.json  serves feed.xml as application/rss+xml; charset=utf-8
+- vercel.json  serves feed.xml as application/xml; charset=utf-8
 - index.html   simple landing page with feed autodiscovery link
 - nginx.conf   alternative if self-hosting on a VPS
 
@@ -19,7 +19,7 @@ Feed URL after deploy: https://wire.dorefinai.com/feed.xml  (replace with your s
 
 ## Verify
 curl -I https://wire.dorefinai.com/feed.xml
-Expect 200 and content-type: application/rss+xml; charset=utf-8
+Expect 200 and content-type: application/xml; charset=utf-8
 Validate at https://validator.w3.org/feed/
 
 ## Updating
